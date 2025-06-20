@@ -22,5 +22,14 @@ Start server with python manage.py runserver
 GitHub:
 🔗 https://github.com/yourusername/project14-django-student
 
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/71c8e687-314e-49f5-89ff-0f0978028764)
+
+![image](https://github.com/user-attachments/assets/3c3d10bd-30e0-43d4-8163-328b22d4ebfb)
+
+![image](https://github.com/user-attachments/assets/d39ae9d2-6caf-4733-85bd-e98ee7127468)
+
+
 
 
